@@ -1,2 +1,5 @@
 config:
   info: "config-dev.yml version=2.0"
+  
+server:
+  port: 60000
